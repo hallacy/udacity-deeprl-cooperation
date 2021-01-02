@@ -55,4 +55,5 @@ python tennis.py --help
 After the model is trained you can visualize the score with 
 ```
 python visualize_scores.py <path to scores.json>
-**
+```
+If you're looking for the trained model weights, you may wish to consider the `save` function in tennis.py to understand the structure of the weight file
