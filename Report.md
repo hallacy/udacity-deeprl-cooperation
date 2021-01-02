@@ -35,7 +35,7 @@ Hyperparameters:
 
 ### Plot of Rewards
 We can see the agent getting better over time with the following plot:
-![score plot](scores_plot.png)
+![score plot](scores.png)
 
 We can see that our agent surpasses the threshold of 0.5 and terminates after ???? episodes with an average score of ???? over the proceeding 100 episodes.
 
